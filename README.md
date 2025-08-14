@@ -2,8 +2,6 @@
 
 Este é um mapa web interativo para a visualização e pesquisa de viveiros cadastrados, bem como a área de municípios e Unidades de Conservação no Pará. Desenvolvido para atender a uma demanda interna do IDEFLOR-Bio, este aplicativo facilita a análise de dados geoespaciais de forma simples e intuitiva.
 
-O aplicativo foi desenvolvido por Samuel C. Santos, Analista Ambiental e Desenvolvedor Web.
-
 ## Funcionalidades Principais
 
 * **Visualização Multicamadas**: Visualize diferentes conjuntos de dados no mapa, como viveiros, municípios, Unidades de Conservação e regiões de integração.
